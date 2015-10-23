@@ -3,6 +3,9 @@
   "description": "Edit-in-place for angular.js",
   "version": "0.1.9",
   "main": "dist/js/xeditable.js",
+  "files": [
+    "dist"
+  ],
   "homepage": "https://vitalets.github.io/angular-xeditable",
   "author": {
     "name": "Vitaliy Potapov",
