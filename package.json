@@ -1,7 +1,7 @@
 {
   "name": "angular-xeditable",
   "description": "Edit-in-place for angular.js",
-  "version": "0.1.9",
+  "version": "0.1.9-tn2.1",
   "main": "dist/js/xeditable.js",
   "files": [
     "dist"
